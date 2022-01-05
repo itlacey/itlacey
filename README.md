@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itlacey
-- 👀 I’m interested in learning more Python
-- 🌱 I’m currently learning Python and Javascript
+- 👀 I’m interested in learning C++
+- 🌱 I’m currently learning Python, DBT
 - 💞️ I’m looking to collaborate on anything!!
 - 📫 How to reach me: ikelacey@gmail.com
 
